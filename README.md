@@ -34,6 +34,9 @@ The results of our SQL analysis are visualized using Tableau. We created interac
 
 - **Country Analysis Dashboard:** Discover countries with the highest number of registered students and how this correlates with minutes watched.
 
+  ![Screenshot of page 1]([screenshot](https://github.com/oanas748/Customer-engagement-analysis/blob/744a406bf2808e4e7d531b23cc5d34e33e851321/Tableau%20Public%20-%20Customer%20Engagementss%2010_10_2023%203_27_26%20PM.png)
+
+
 ## How to Use
 
 1. Clone this repository to your local machine.
