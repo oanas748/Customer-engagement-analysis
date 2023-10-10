@@ -48,6 +48,6 @@ The results of our SQL analysis are visualized using Tableau. We created interac
 
 This project offers valuable insights into customer behavior and engagement on the 365 Data Science platform. The combination of SQL data analysis and Tableau data visualization empowers data-driven decision-making to enhance customer engagement strategies.
 
-For inquiries or additional information, please contact [Your Name] at [Your Email Address].
+For inquiries or additional information, please contact Osama Anas at oanas748@gmail.com.
 
 Happy exploring!
