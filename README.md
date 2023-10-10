@@ -36,6 +36,9 @@ The results of our SQL analysis are visualized using Tableau. We created interac
 
   ![Screenshot of page 1](https://github.com/oanas748/Customer-engagement-analysis/blob/744a406bf2808e4e7d531b23cc5d34e33e851321/Tableau%20Public%20-%20Customer%20Engagementss%2010_10_2023%203_27_26%20PM.png)
 
+![screenshot page 2](https://github.com/oanas748/Customer-engagement-analysis/blob/68456972739fdae40bcc5b422e6e0f58895f731e/Tableau%20Public%20-%20Customer%20Engagementss%2010_10_2023%203_27_39%20PM.png)
+
+![screenshot page 3](https://github.com/oanas748/Customer-engagement-analysis/blob/68456972739fdae40bcc5b422e6e0f58895f731e/Tableau%20Public%20-%20Customer%20Engagementss%2010_10_2023%203_27_53%20PM.png)
 
 ## How to Use
 
